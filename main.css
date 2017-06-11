@@ -1,0 +1,68 @@
+html, body, div, h1, h2, h3, h4, header, footer, p, ul, ol, li, th, tr, td {
+  padding: 0;
+  border: 0;
+  margin: 0;
+  font: inherit;
+  font-size: 100%;
+}
+h1{
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 70px;
+  font-weight: bold;
+  text-align: center;
+}
+h2{
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 26px;
+  font-weight: 100;
+  text-align: center;
+  color: #ffffff;
+}
+h3{
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 34px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: underline;
+  color: #000000;
+  margin: 20px 0 20px 0;
+}
+header{
+  background-color: #999999;
+}
+.tagline{
+  background-color: #000000;
+  padding: 25px 0 25px 0;
+}
+h2 strong{
+  font-weight: 400;
+}
+.bios ul{
+  text-align: center;
+}
+img{
+  height: 140px;
+  width: 140px;
+}
+
+th{
+  font-weight: bold;
+  font-size: 24px;
+  margin: 10px;
+
+}
+tr{
+  text-align: center;
+}
+
+ul{
+    list-style-type: circle;
+}
+
+li{
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 20px;
+  text-align: center;
+  color: #000000;
+}
+
